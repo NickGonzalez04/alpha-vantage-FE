@@ -1,1 +1,1 @@
-# aplpha-vantage-FE
+# alpha-vantage-FE
